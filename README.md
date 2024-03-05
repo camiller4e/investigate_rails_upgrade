@@ -23,3 +23,4 @@ Things you may want to cover:
 
 * ...
 # investigate_rails_upgrade
+# investigate_rails_upgrade
